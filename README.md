@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-This repository contains a collection of algorithms organized by category. The algorithms cover various data structures and techniques, with the exception of the **`ds_lab_final_practice/`** and **`ds_lab_mid_practice/`** folders, which focus on practice for the Data Structures Lab exams.
+This repository contains my personal practice of algorithms from the 3rd semester, organized by category. Most folders include general algorithm practice, while ds_lab_final_practice/ and ds_lab_mid_practice/ specifically focus on preparation for the DS Lab exams.
 
 ## Folder Structure
 
