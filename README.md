@@ -16,9 +16,3 @@ This repository contains my personal practice of algorithms from the 3rd semeste
 - **`sorting/`**: Sorting algorithms (e.g., quick sort, merge sort, bubble sort).
 - **`stack/`**: Algorithms based on stack data structures.
 - **`trees/`**: Tree-related algorithms (e.g., binary trees, tree traversals).
-
-## How to Use
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/hamx05/DSA-Practice.git
