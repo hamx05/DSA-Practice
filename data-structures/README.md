@@ -1,8 +1,10 @@
-# Data Structures and Algorithms
+# 📚 Data Structures Implementations & Practice
 
-This repository contains my personal practice of algorithms from the 3rd semester, organized by category. Most folders include general algorithm practice, while ds_lab_final_practice/ and ds_lab_mid_practice/ specifically focus on preparation for the DS Lab exams.
+This repository contains my personal practice of algorithms from the 3rd semester (Fall 2024), organized by category. Most of these data structures and algorithms were practiced during that semester, but I’m continuously adding more material and problems to improve and expand my knowledge.
 
-## Folder Structure
+---
+
+##  🗂  Folder Structure
 
 - **`backtracking/`**: Algorithms based on the backtracking technique.
 - **`ds_lab_final_practice/`**: Practice material for the Data Structures Lab Final Exam.
@@ -16,3 +18,5 @@ This repository contains my personal practice of algorithms from the 3rd semeste
 - **`sorting/`**: Sorting algorithms (e.g., quick sort, merge sort, bubble sort).
 - **`stack/`**: Algorithms based on stack data structures.
 - **`trees/`**: Tree-related algorithms (e.g., binary trees, tree traversals).
+
+---
